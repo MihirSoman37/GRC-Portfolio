@@ -1,7 +1,7 @@
 # GRC-Portfolio
 # GRC Portfolio — Mihir Soman
 
-MS Cybersecurity student at Northeastern University specializing in 
+MS Cybersecurity student at Northeastern University interested in
 Governance, Risk and Compliance (GRC).
 
 ## Case Studies
