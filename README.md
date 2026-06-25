@@ -17,3 +17,6 @@ responsibility misalignment. Sourced from OCC and Federal Reserve orders.
 ### 3. MBTA AFC 2.0 — Cyber Risk & Resilience Assessment
 MBRA framework and graph-theoretic modeling of cascading cyber risk 
 in critical transportation infrastructure.
+
+### 4. Northstar Health Systems -- Internal Memo proposing Hybrid approach
+Executive-grade internal memo recommending a phased risk assessment framework for Northstar Health Systems, a mid-sized healthcare provider undergoing cloud migration across three U.S. states. Evaluates NIST RMF, NIST SP 800-66r2, ISO 27001/27005/27799, FAIR, and OCTAVE — proposes a hybrid ISO-led approach with a 90-day implementation roadmap. Regulatory context: HIPAA Security Rule, multi-state health data privacy obligations.
